@@ -1,11 +1,21 @@
-# Hi, I'm [João Victor]! 👋 🛠️ ⚡
+# <div align="center">Hello, I'm João Victor! 👋 🛠️ ⚡</div>
 
+<div align="center">
+  
 > **Mechatronic Engineer | Full Stack Developer | Automation Alchemist**
 
-I don't just build software; I build bridges. My passion lives at the exciting intersection where **physical hardware meets digital software**, crafting integrated solutions from the sensor to the cloud.
+</div>
 
-![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBtZDJ6a2xkZ2xwMXp6bnUzZTZ3a2tsbjJ5MGI4bWRjenBhcHUzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl3bTJ3NzN4b29vdjYzMWNsZTFoMHBlbnl0ZGZpaHI2MmU1dnlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KtYG8BndKBmWrM4/giphy.gif" alt="Tech Banner" width="40%"/>
+</p>
 
+<div align="center">
+
+**Building bridges between hardware and software** - I transform complex engineering challenges into elegant digital solutions that span from sensor to cloud.
+
+</div>
+  
 ---
 
 ### 🧠 What I Bring to the Table
