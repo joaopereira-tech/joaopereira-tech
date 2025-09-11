@@ -71,10 +71,10 @@ My path hasn't been linear, and that's my greatest strength:
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
 
-[![Website](https://img.shields.io/badge/Portfolio-YourWebsite.com-2ea44f?style=for-the-badge)](https://yourwebsite.com)
-[![LinkedIn](https://www.linkedin.com/in/joaovictorramalhopereira)
-[![Instagram](https://www.instagram.com/joao.pereira_tech)
-[![Email](eng.joao.pereira.tech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite.com-2ea44f?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorramalhopereira)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joao.pereira_tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.joao.pereira.tech@gmail.com)
 
 ---
 *"First, solve the problem. Then, write the code." – John Johnson*
