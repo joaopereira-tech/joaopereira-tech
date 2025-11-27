@@ -2,7 +2,7 @@
 
 <div align="center">
   
-> **Mechatronic Engineer | Full Stack Developer | Automation Alchemist**
+> **Mechatronic Engineer | Machine learning developer | Automation Alchemist**
 
 </div>
 
@@ -23,7 +23,7 @@
 I speak the languages of both machines and humans:
 
 *   **🤖 The Physical World:** Automation, Robotics, Embedded Systems (C/C++), PLCs, Electrical Design.
-*   **🌐 The Digital World:** Full-Stack Web Development (JavaScript, React, Node.js, Python), APIs, Databases.
+*   **🌐 The Digital World:** Machine learning developer, APIs, Databases.
 *   **🔗 The Connective Tissue:** IoT Architecture, Data Pipelines, System Integration, and Process Optimization.
 
 My engineering mindset isn't just about writing code—it's about architecting **efficient, reliable, and elegant systems** that solve real-world problems.
@@ -71,7 +71,7 @@ My path hasn't been linear, and that's my greatest strength:
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite.com-2ea44f?style=for-the-badge)](https://yourwebsite.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorramalhopereira)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joao.pereira_tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.joao.pereira.tech@gmail.com)
